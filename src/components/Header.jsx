@@ -76,7 +76,7 @@ const Header = () => {
           <HambugerMenu />
         </nav>
 
-        <Button className="hidden lg:flex" href={links.sourceCode} external>
+        <Button className="hidden lg:flex" href="https://github.com/AzizMissaoui/SaasAi" external>
           Source Code
         </Button>
 
